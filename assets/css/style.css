@@ -128,14 +128,12 @@ aside {
     font-size: 36px;
 }
 
-/* FOOTER */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
+/* FOOTER was removed because although 
+it was coded and styled properly, there
+was no footer on the demo png. The little
+heart also seemed to be a bit off-brand
+for what Horiseon appears to be. This might 
+be a mistake on my part and I could be 
+overthinking this, but I wasn't sure what 
+to do about that footer.
+*/
